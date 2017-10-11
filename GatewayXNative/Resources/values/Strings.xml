@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="settings">Settings</string>
+	<string name="app_name">GatewayXNative</string>
+
+	<!--AWS Stuff-->
+	<string name="aws_access_key">AKIAJW3CZKHHBOJUPIBQ</string>
+	<string name="aws_secret_key">XxpUk1SVE4drTDzQt2hkXXLLKsVBGXC9tim</string>
+	<string name="aws_queue_endpoint">https://sqs.us-east-1.amazonaws.com/316513879180/WorkerDevQueue</string>
+</resources>
